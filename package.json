@@ -1,0 +1,17 @@
+{
+  "name": "rocektchat-cli-node",
+  "version": "1.0.0",
+  "description": "A simple rocketchat cli for stuff I need to do",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel Petry",
+  "license": "MIT"
+}
