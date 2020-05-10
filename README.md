@@ -19,7 +19,9 @@ If you are even lazyer ~martins~ there is also scripts in bin folder
 Create a ~/.config/rocketchat-node-cli.config.json and use the example scripts
 
 `bin/sendMessage "@friend" "Hello!"`
+
 `bin/sendMessage "@friend,@fiend" "Hello, are u alieve?!"`
+
 `bin/changeStatus "away" "Going out, but with a mask"`
 
 ## Should I use it?
