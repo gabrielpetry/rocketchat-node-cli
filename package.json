@@ -4,7 +4,7 @@
   "description": "A simple rocketchat cli for stuff I need to do",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "minimist": "^1.2.5"
   },
   "devDependencies": {},
